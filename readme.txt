@@ -4,4 +4,8 @@ second add in this txt file
 third add in this txt file
 forth add in this txt file,xxxxxx
 new a branch dev
-xxxxxxxxxxxx
+<<<<<<< HEAD
+xxxxxxxxxxxx ///
+=======
+new a branch feature1
+>>>>>>> feature1
